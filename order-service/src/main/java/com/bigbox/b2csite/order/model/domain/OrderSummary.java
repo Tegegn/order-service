@@ -4,6 +4,8 @@ import java.math.BigDecimal;
 
 public class OrderSummary {
 
+	
+	private String myname;
 	private String orderNumber;
 	private int itemCount;
 	private BigDecimal totalAmount;
